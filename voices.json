@@ -1,0 +1,11 @@
+{
+  "male": {
+    "he": { "name": "Jason", "voice_id": "WKloUZuthBUoGDnQpj8Y", "model": "eleven_v3" },
+    "en": { "name": "Seth", "voice_id": "UVaiVlRKBE2pyyQQi5Vg", "model": "eleven_multilingual_v2" }
+  },
+  "female": {
+    "he": { "name": "Miriam", "model": "eleven_v3", "note": "the v1 recordings, unchanged" },
+    "en": { "name": "Jenifer", "voice_id": "cKLbkUTUBoxzpe6oCPbr", "model": "eleven_multilingual_v2" },
+    "prayers": ["birkat-hachodesh", "candle-lighting", "yom-kippur-candles", "yom-tov-candles"]
+  }
+}
